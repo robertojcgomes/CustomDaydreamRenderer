@@ -1,5 +1,5 @@
 # CustomDaydreamRenderer[![Follow](https://img.shields.io/github/followers/robertojcgomes.svg?style=social&label=Follow)](https://github.com/robertojcgomes) [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](https://github.com/robertojcgomes/CustomDaydreamRenderer/blob/master/LICENSE) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/robertojcgomes/2usd) [![Twitter Follow](https://img.shields.io/twitter/follow/robertojcgomes.svg?label=Follow&style=social)](https://twitter.com/robertojcgomes) 
-
+![IntroImage](CustomDaydream_rec.gif)
 ## Description
 Customized Daydream Renderer Shaders with Emission and Rim Light.
 ## Aknowlegements
